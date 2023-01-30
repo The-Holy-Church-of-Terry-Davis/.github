@@ -1,7 +1,7 @@
 # we have divine intellect
 
 Ongoing projects
-- B<a href="https://github.com/The-Holy-Church-of-Terry-Davis/BrowserOS">BrowserOS</a>
+- <a href="https://github.com/The-Holy-Church-of-Terry-Davis/BrowserOS">BrowserOS</a>
 - divine-ai
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/The-Holy-Church-of-Terry-Davis.github.io">The-Holy-Church-of-Terry-Davis.github.io</a>
 - terryBot-public
