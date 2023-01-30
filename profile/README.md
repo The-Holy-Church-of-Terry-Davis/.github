@@ -5,7 +5,7 @@ Ongoing projects
 - divine-ai
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/The-Holy-Church-of-Terry-Davis.github.io">The-Holy-Church-of-Terry-Davis.github.io</a>
 - terryBot-public
-- <a href="https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-module">godspeak-module</a>
+- godspeak-module
 
 Finished projects
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/GodSpeak-Twitter">GodSpeak-Twitter</a>
