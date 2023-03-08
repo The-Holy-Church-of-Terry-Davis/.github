@@ -3,7 +3,6 @@
 Ongoing projects
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/DUM">DUM</a>
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/HVCPU">HVCPU</a>
-- <a href="https://github.com/The-Holy-Church-of-Terry-Davis/BOS">BOS</a>
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible">godspeak-bible</a>
 - divine-ai
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/The-Holy-Church-of-Terry-Davis.github.io">The-Holy-Church-of-Terry-Davis.github.io</a>
@@ -15,6 +14,7 @@ Finished projects
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-package">godspeak-package</a>
 
 Cancelled projects
+- ~~BOS~~
 - ~~Holy-Realm~~
 - ~~libholybackplane~~
 
