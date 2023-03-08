@@ -1,6 +1,8 @@
 # we have divine intellect
 
 Ongoing projects
+- <a href="https://github.com/The-Holy-Church-of-Terry-Davis/DUM">DUM</a>
+- <a href="https://github.com/The-Holy-Church-of-Terry-Davis/HVCPU">HVCPU</a>
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/BOS">BOS</a>
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/godspeak-bible">godspeak-bible</a>
 - divine-ai
