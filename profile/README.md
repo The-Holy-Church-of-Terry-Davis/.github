@@ -1,5 +1,8 @@
 # we have divine intellect
 
+Featured projects
+- <a href="https://github.com/The-Holy-Church-of-Terry-Davis/DAWN">DAWN</a>
+
 Ongoing projects
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/DUM">DUM</a>
 - <a href="https://github.com/The-Holy-Church-of-Terry-Davis/HVCPU">HVCPU</a>
